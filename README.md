@@ -1,6 +1,6 @@
 # OOP_lab2
 Необходимо разработать страницу отображающую список объектов, с хранением их на сервере в файле, передача данных осуществляется по JSON, клиент и сервер общаются по средством передачи данных. На странице предусмотреть форму добавления объектов в список.
 - Страница записи
-![alt text](https://github.com/Vital1kS/OOP_lqb1/blob/main/images/main.png)
+![alt text](https://github.com/Vital1kS/OOP_lab2/blob/main/images/write.png)
 - Страница чтения
-![alt text](https://github.com/Vital1kS/OOP_lqb1/blob/main/images/about.png)
+![alt text](https://github.com/Vital1kS/OOP_lab2/blob/main/images/read.png)
